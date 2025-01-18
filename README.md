@@ -1,1 +1,1 @@
-this us a calculator
+this is a calculator
